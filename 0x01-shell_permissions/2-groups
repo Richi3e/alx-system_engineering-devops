@@ -1,3 +1,2 @@
-
 #!/bin/bash
 echo " Groups for current user: $(groups)"
